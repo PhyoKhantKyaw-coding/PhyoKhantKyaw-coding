@@ -44,10 +44,8 @@ I'm a passionate and empathetic developer who values clarity, creativity, and co
 ---
 
 ## 📬 Let's connect
-
-- 💼 Portfolio: [Your Portfolio Link]
-- 💬 Discord: [Your Discord Name]
-- 📧 Email: [Your Email Address]
+- 💬 Discord: [pkk0780]
+- 📧 Email: [phyokhantkyaw187@gmail.com]
 
 <!---
 PhyoKhantKyaw-coding/PhyoKhantKyaw-coding is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
