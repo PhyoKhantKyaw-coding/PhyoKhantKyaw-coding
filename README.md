@@ -14,7 +14,7 @@ I'm a passionate and empathetic developer who values clarity, creativity, and co
 ## 💻 Languages and Tools
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=dotnet,js,ts,react,java,python,php,laravel,bootstrap,tailwind,vue,scss,css,less,csharp" />
+  <img src="https://skillicons.dev/icons?i=dotnet,js,ts,react,java,python,bootstrap,tailwind,vue,scss,css,csharp" />
 </p>
 
 ### 📊 Most Used Languages
